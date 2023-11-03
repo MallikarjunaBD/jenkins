@@ -1,6 +1,5 @@
-class sample{
-void main()
-{
-system.out.println"hai welcome to jenkins";
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Jenkins");
+    }
 }
-	}
